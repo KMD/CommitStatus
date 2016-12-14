@@ -1,2 +1,6 @@
 * commit statuses for gitlab projects
 ** Usage
+   - ~git clone https://github.com/KMD/CommitStatus.git~
+   - ~cd COMMitstatus~
+   - ~virtualenv venv~
+   - ~source venv/bin/activate~
